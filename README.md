@@ -1,2 +1,8 @@
 # supershop-documentacion
-Documentación de proyecto final
+Documentation
+
+# Project
+I developed a mobile application for iOS as final project for my diploma
+
+# Author
+David Arturo Martínez Guzmán
